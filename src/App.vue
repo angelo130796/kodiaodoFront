@@ -32,7 +32,7 @@
               </v-list-tile-action>
               <v-list-tile-content>
                 <v-list-tile-title>
-                  Enfermedad
+                  Enfermeda
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
