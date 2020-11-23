@@ -36,7 +36,7 @@
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
-            <v-list-tile :to="{ name: ''}">
+            <v-list-tile :to="{ name: 'signos'}">
               <v-list-tile-action>
                 <v-icon>table_chart</v-icon>
               </v-list-tile-action>
@@ -53,7 +53,7 @@
             <v-list-tile slot="activator">
               <v-list-tile-content>
                 <v-list-tile-title>
-                  xxxxxxxxxxxx
+                  Citas
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
@@ -63,7 +63,7 @@
               </v-list-tile-action>
               <v-list-tile-content>
                 <v-list-tile-title>
-                  xxxxxxxxxxxx
+                  Agenda
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
@@ -73,7 +73,7 @@
               </v-list-tile-action>
               <v-list-tile-content>
                 <v-list-tile-title>
-                  xxxxxxxxxxxx
+                  Alertas
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
@@ -84,7 +84,7 @@
             <v-list-tile slot="activator">
               <v-list-tile-content>
                 <v-list-tile-title>
-                  xxxxxxxxxxxx
+                  Personas
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
@@ -94,17 +94,7 @@
               </v-list-tile-action>
               <v-list-tile-content>
                 <v-list-tile-title>
-                  xxxxxxxxxxxx
-                </v-list-tile-title>
-              </v-list-tile-content>
-            </v-list-tile>
-            <v-list-tile :to="{ name: ''}">
-              <v-list-tile-action>
-                <v-icon>table_chart</v-icon>
-              </v-list-tile-action>
-              <v-list-tile-content>
-                <v-list-tile-title>
-                  xxxxxxxxxxxx
+                  Pacientes
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
@@ -136,37 +126,6 @@
               <v-list-tile-content>
                 <v-list-tile-title>
                   Usuarios
-                </v-list-tile-title>
-              </v-list-tile-content>
-            </v-list-tile>
-          </v-list-group>
-        </template>
-        <template>
-            <v-list-group>
-            <v-list-tile slot="activator">
-              <v-list-tile-content>
-                <v-list-tile-title>
-                  xxxxxxxxxxxx
-                </v-list-tile-title>
-              </v-list-tile-content>
-            </v-list-tile>
-            <v-list-tile :to="{ name: ''}">
-              <v-list-tile-action>
-                <v-icon>table_chart</v-icon>
-              </v-list-tile-action>
-              <v-list-tile-content>
-                <v-list-tile-title>
-                  xxxxxxxxxxxx
-                </v-list-tile-title>
-              </v-list-tile-content>
-            </v-list-tile>
-            <v-list-tile :to="{ name: ''}">
-              <v-list-tile-action>
-                <v-icon>table_chart</v-icon>
-              </v-list-tile-action>
-              <v-list-tile-content>
-                <v-list-tile-title>
-                  xxxxxxxxxxxx
                 </v-list-tile-title>
               </v-list-tile-content>
             </v-list-tile>
